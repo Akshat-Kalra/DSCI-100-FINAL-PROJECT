@@ -7,9 +7,9 @@
 * To replicate the analysis:
 
 1. Install R and the required packages: tidyverse, tidymodels, kknn.
-2. Download the dataset (trial.csv) from the provided link.
+2. Download the dataset from the provided link.
 3. Open the project_report.ipynb file in Jupyter Notebook.
-4. Set the working directory to the location where the trial.csv file is saved.
+4. Set the working directory to the location where the data file is saved.
 5. Run the code chunks in the R Markdown file to perform the analysis.
 ### Note: Basic knowledge of R and familiarity with data preprocessing, KNN classification, and model evaluation techniques are assumed.
 
