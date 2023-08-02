@@ -17,3 +17,5 @@
 * The results of the analysis include the evaluation of the classifiers' accuracy, the optimal K value selected, and a comparison between the models. Confusion matrices provide insights into the performance of the models in predicting the risk of fraud.
 
 > For detailed code and analysis, refer to the project_report.ipynb file.
+
+> Note: This is a showcase repository which is meant to showcase the final version of the project. This project was part of UBC DSCI 100 course required many steps in between including a proposal and a draft version.
