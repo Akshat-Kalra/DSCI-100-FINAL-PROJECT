@@ -1,9 +1,9 @@
 # DSCI-100-FINAL-PROJECT
 
-Repository Structure
-README.md: Overview and guide to the project.
-draft.ipynb: R Markdown file containing the code and analysis for the project.
-Getting Started
+## Repository Structure
+* README.md: Overview and guide to the project.
+* draft.ipynb: R Markdown file containing the code and analysis for the project.
+## Getting Started
 To replicate the analysis:
 
 Install R and the required packages: tidyverse, tidymodels, kknn.
