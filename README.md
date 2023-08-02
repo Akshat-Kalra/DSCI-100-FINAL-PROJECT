@@ -18,4 +18,4 @@
 
 > For detailed code and analysis, refer to the project_report.ipynb file.
 
-> Note: This is a showcase repository which is meant to showcase the final version of the project. This project was part of UBC DSCI 100 course required many steps in between including a proposal and a draft version.
+> Note: This is a showcase repository which is meant to showcase the final version of the project. This project was part of UBC DSCI 100 course which required many steps in between including a proposal and a draft version.
